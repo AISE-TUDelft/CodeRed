@@ -2,7 +2,7 @@
 
 Replication Package for the FSE'25 Paper Titled: Code Red! On the Harmfulness of Applying Off-the-shelf Large Language Models to Programming Tasks
 
-Additional visualisations of our data can be found in the [HuggingFace Space](AISE-TUDelft/Code-Red-Benchmark)
+Additional visualisations of our data can be found in the [AISE-TUDelft/Code-Red-Benchmark](https://huggingface.co/spaces/AISE-TUDelft/Code-Red-Benchmark)
 
 ## Instructions
 To run the project, follow these steps:
